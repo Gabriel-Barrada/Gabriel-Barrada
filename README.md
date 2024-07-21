@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MicrosoftEXCEL]([https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fexcel-logo%2F&psig=AOvVaw23O1m6L6eH6IYo4vSizW3g&ust=1721685508122000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD13MOPuYcDFQAAAAAdAAAAABAE](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/medium?v=v2&px=400))
+![MicrosoftEXCEL]([[https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/medium?v=v2&px=400](https://camo.githubusercontent.com/3accba4a9c3c86c5cd18300b2fc80c4890666662e6ea18361d16d9974a6d8590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f457863656c2d3231373334363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465))
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gabriel-Barrada&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Barrada&theme=highcontrast&hide_border=true)<br/>

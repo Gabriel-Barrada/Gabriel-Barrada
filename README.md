@@ -1,12 +1,13 @@
-# 💫 About Me:
-Estou participando da entidade estudantil FEA.dev e pretendo aprimorar meus conhecimentos sobre tecnologias e negócios.
+# Gabriel Barrada
+* Estou participando da entidade estudantil FEA.dev e pretendo aprimorar meus conhecimentos sobre tecnologias e negócios.
 
 
-## 🌐 Socials:
+## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barrada-34bb47260/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicrosoftEXCEL](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fexcel-logo%2F&psig=AOvVaw23O1m6L6eH6IYo4vSizW3g&ust=1721685508122000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD13MOPuYcDFQAAAAAdAAAAABAE)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gabriel-Barrada&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Barrada&theme=highcontrast&hide_border=true)<br/>

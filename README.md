@@ -1,5 +1,5 @@
 # Gabriel Barrada
-* Estou participando da entidade estudantil FEA.dev e pretendo aprimorar meus conhecimentos sobre tecnologias e negócios.
+* Estou participando da entidade estudantil FEA.dev e pretendo aprimorar meus conhecimentos sobre tecnologias e negócios. Além disso, estou cursando ciências contábeis na universidade [FEA-USP](https://www.fea.usp.br/).
 
 
 # 🌐 Contato:
